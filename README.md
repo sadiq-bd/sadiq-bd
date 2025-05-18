@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://api.sadiq.us.to/app/github/profile/views" alt="" /> </p>
+<p align="left"> <img src="" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiq-bd" alt="sadiq-bd" /></a> </p>
 
