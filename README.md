@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/github/stars/sadiq-bd/sadiq-bd?style=social" alt="Repo Stars" />
 </p>
 
-
 <summary><b>🌱 Currently Learning</b></summary>
 <ul>
   <li>Next.js</li>
@@ -20,6 +19,11 @@
 <summary><b>👨‍💻 My Projects</b></summary>
 <ul>
   <li>All of my projects are available at <a href="https://sadiq.us.to" target="_blank">sadiq.us.to</a></li>
+</ul>
+
+<summary><b>🎮 Try My Game!</b></summary>
+<ul>
+  <li>Wanna try a game I made? Play <a href="https://tic-tac-toe.sadiq.us.to" target="_blank">Tic-Tac-Toe</a> online!</li>
 </ul>
 
 <summary><b>📝 Latest Articles</b></summary>
@@ -60,7 +64,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,postgresql,docker,bash,linux,git,github,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,python,postgresql,docker,bash,linux,git,github,vim" alt="Skill Icons" />
 </p>
 
 ---
