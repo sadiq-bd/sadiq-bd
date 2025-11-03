@@ -13,7 +13,7 @@
 
 <summary><b>🌱 Currently Learning</b></summary>
 <ul>
-  <li>Next.js</li>
+  <li>Next.js, Hono 🔥</li>
 </ul>
 
 <summary><b>👨‍💻 My Projects</b></summary>
