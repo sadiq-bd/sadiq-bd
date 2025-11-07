@@ -18,7 +18,7 @@
 
 <summary><b>👨‍💻 My Projects</b></summary>
 <ul>
-  <li>All of my projects are available at <a href="https://sadiq.us.to" target="_blank">sadiq.us.to</a></li>
+  <li>All of my projects are available at <a href="https://sadiq.is-a.dev" target="_blank">sadiq.is-a.dev</a></li>
 </ul>
 
 <summary><b>🎮 Try My Game!</b></summary>
