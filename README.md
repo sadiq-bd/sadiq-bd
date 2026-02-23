@@ -22,5 +22,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiq-bd&theme=dark" alt="GitHub Streak" height="180" />
 </p>
-
----
