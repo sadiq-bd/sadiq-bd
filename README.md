@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/619a0204-ab13-48c6-8d2c-8b89d3ebcac7" alt="profile.json" height="360" />
+  <a href="https://sadiq.is-a.dev/"><img src="https://github.com/user-attachments/assets/619a0204-ab13-48c6-8d2c-8b89d3ebcac7" alt="profile.json" height="360" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/57b7a862-9b25-4120-98c2-253327d8e132" alt="Tech Stack" height="80" />
+  <img src="https://github.com/user-attachments/assets/57b7a862-9b25-4120-98c2-253327d8e132" alt="Tech Stack" height="70" />
 </p>
 
 ---
