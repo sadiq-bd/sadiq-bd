@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/adc7c79c-5f97-4cae-9c02-b00d9153a7ca">
 </p>
 
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,php,laravel,go,python,postgresql,docker,bash,linux,git,github,vim" alt="Tech Stack" />
 </p>
