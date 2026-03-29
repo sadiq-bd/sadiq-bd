@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sadiq.is-a.dev/"><img src="https://github.com/user-attachments/assets/619a0204-ab13-48c6-8d2c-8b89d3ebcac7" alt="profile.json" height="360" /></a>
+  <a href="https://sadiq.is-a.dev/"><img src="https://github.com/user-attachments/assets/6ab40e8a-98f8-49fb-8002-f1a72323deeb" alt="profile.json" height="360" /></a>
 </p>
 
 ---
