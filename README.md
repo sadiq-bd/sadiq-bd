@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adc7c79c-5f97-4cae-9c02-b00d9153a7ca">
+  <img src="https://github.com/user-attachments/assets/adc7c79c-5f97-4cae-9c02-b00d9153a7ca" alt="profile.json" height="360" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,php,laravel,go,python,postgresql,docker,bash,linux,git,github,vim" alt="Tech Stack" />
+  <img src="https://github.com/user-attachments/assets/57b7a862-9b25-4120-98c2-253327d8e132" alt="Tech Stack" />
 </p>
 
 ---
