@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiq%40sadiq.is-a.dev&subject=Hello">
+  <a href="mailto:sadiq@sadiq.is-a.dev">
     <img src="https://api.sadiq.workers.dev/app/github/profile.json" alt="profile.json" width="620" />
   </a>
 </p>
